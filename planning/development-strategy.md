@@ -1,6 +1,7 @@
-# Todo List: Practical JavaScript
+# Pomofocus
 
-A refactor of the Practical JavaScript Todo List
+JavaScript Promofocus
+
 
 ---
 
@@ -22,16 +23,22 @@ A refactor of the Practical JavaScript Todo List
 
 ## WIREFRAME
 
-![wireframe]()
+![wireframe](../public/assets/images/wireframe-pomofocus.png)
 
 ---
 
 ## 0.Setup
 
-- Start a repo.
-- Study (and possibly modify) the backlog
-- Design a simple wireframe to set guidelines for UI/UX design.
-- Devise a development strategy.
+**A User can see my initial repository and live demo**
+
+### Repository
+
+- Created a new repository from this [template](https://github.com/HackYourFutureBelgium/classes-starter)
+- Clone the repository
+- Add a Wireframe
+- Start the development strategy
+- Write initial, basic README
+- Push the changes to GitHub
 
 ---
 
@@ -39,19 +46,65 @@ A refactor of the Practical JavaScript Todo List
 
 **As a user I want to see the home page when I load the site**
 
-- _acceptance criteria_
-- _acceptance criteria_
-- ...
 
 ### REPO
 
-- This user story is developed on branch `_`.
+- This user story is developed on branch `master`.
+
+
+### Index.html
+
+- Add `index.html `
+- Add elements
+
+### Style.css
+
+- Added style for elements
+
+
+### Images and sound
+
+- Add images and sound
+
+---
+
+## 2. Time
+
+**As a user I would like be able to set the time to study for long break and short break**
+
+
+### REPO
+
+- This user story is developed on branch `time`.
 - This branch is merged to `master` branch after completion.
 
-### Task A
+### Time.js
 
-### Task B
+- Create functions to make the timer work
 
-### Task ...
+### Time.js
+
+- Create a `start` and `stop button work`  
+- Create a `pomodoro` , `short break` and long `break work `
+
+### init.js
+
+- All the listeners
+
+
+---
+
+## 3. Background colors
+
+**As a user I would like be able to see different background colors for long break and short break**
+
+### REPO
+
+- This user story is developed on branch `background`.
+- This branch is merged to `master` branch after completion.
+
+### background.js
+
+- Create functions to change background colors.
 
 ---
